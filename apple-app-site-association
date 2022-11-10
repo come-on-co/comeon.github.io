@@ -1,0 +1,14 @@
+{
+     "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "GT75763PP5.co.comeon.comeonapp",
+                "paths": [ "*" ]
+            }
+        ]
+    },
+   "webcredentials": {
+      "apps": [ "GT75763PP5.co.comeon.comeonapp" ]
+   }
+}
